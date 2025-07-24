@@ -2,6 +2,6 @@
 {
     public static class MyTeam
     {
-        public const string SquadName = "PCC BG Team";
+        public const string SquadName = "PCC BG 2 Team";
     }
 }
